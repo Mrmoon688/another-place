@@ -1,1 +1,2 @@
-// test estetes lorem //
+console.log("hello");
+document.getElementById();
